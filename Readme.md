@@ -10,7 +10,7 @@
  In the maintenance and support of legacy systems in **Java/Flex** and **Ruby on Rails** and also in the construction 
  of new systems in **Ruby on Rails**.
    
-   - :palm_tree: I have more than 8 years of experience in software development
+   - :palm_tree: I have more than 9 years of experience in software development
    
    - :man_technologist: I'm work currently with Ruby on Rails
   
@@ -20,7 +20,7 @@
    
    - :man_technologist: My experience [![Linkedin](https://img.shields.io/static/v1?style=social&logo=Linkedin&label=&message=Linkedin&color=blue)](https://www.linkedin.com/in/mayconribeiro/?locale=en_US)
   
-   - :man_student: I'm Graduate Student in Projeto e Desenvolvimento de Software para Mobile at Fatesg-Senai
+   - :man_student: I'm Post Graduate Student in Projeto e Desenvolvimento de Software para Mobile at Fatesg-Senai
   
    - :man_student: I'm Bachelor of Technology - BTech in Análise e Desenvolvimento de Sistemas at PUC-Goias
   
