@@ -100,18 +100,7 @@
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/gradle.png" width="48" />&nbsp;
 
 <br>
-
-![Graphic](https://img.shields.io/static/v1?style=flat-square&label=&message=Graphic&color=blue)
-![Statistic](https://img.shields.io/static/v1?style=flat-square&label=and&message=Statistic&color=blue)
-<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayaugusto7&hide=html)
-![Maycon's github stats](https://github-readme-stats.vercel.app/api?username=mayaugusto7&show_icons=true)
-
-<br>
-
 ![Contact](https://img.shields.io/static/v1?style=flat-square&label=&message=Contact&color=success)
 ![Me](https://img.shields.io/static/v1?style=flat-square&label=for&message=me&color=success)
-
-<br>
 
 [![Linkedin](https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/linkedin.svg)](https://www.linkedin.com/in/mayconribeiro)
