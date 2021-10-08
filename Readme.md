@@ -4,7 +4,7 @@
 ![Engineer](https://img.shields.io/static/v1?style=flat-square&label=&message=Engineer&color=blue)
 ![Developer](https://img.shields.io/static/v1?style=flat-square&label=&message=Developer&color=blue) 
 ![Programmer](https://img.shields.io/static/v1?style=flat-square&label=and&message=Programmer&color=blue) 
-![Sotfware](https://img.shields.io/static/v1?style=flat-square&label=of&message=Software&color=blue)
+![Software](https://img.shields.io/static/v1?style=flat-square&label=of&message=Software&color=blue)
 
  At the moment I work as a Senior Software Developer at Ministerio Publico do Estado de Goiás.
  In the maintenance and support of legacy systems in **Java/Flex** and **Ruby on Rails** and also in the construction 
