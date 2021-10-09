@@ -1,10 +1,10 @@
 ### Hi, I'm Maycon Augusto Ribeiro :wave:
-![Brazil](https://img.shields.io/static/v1?style=flat-square&label=Brazil&message=BR&color=success)
-![Architect](https://img.shields.io/static/v1?style=flat-square&label=&message=Architect&color=blue) 
-![Engineer](https://img.shields.io/static/v1?style=flat-square&label=&message=Engineer&color=blue)
-![Developer](https://img.shields.io/static/v1?style=flat-square&label=&message=Developer&color=blue) 
-![Programmer](https://img.shields.io/static/v1?style=flat-square&label=and&message=Programmer&color=blue) 
-![Software](https://img.shields.io/static/v1?style=flat-square&label=of&message=Software&color=blue)
+![Brazil](https://img.shields.io/static/v1?style=for-the-badge&label=Brazil&message=BR&color=success)
+![Architect](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Architect&color=blue) 
+![Engineer](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Engineer&color=blue)
+![Developer](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Developer&color=blue) 
+![Programmer](https://img.shields.io/static/v1?style=for-the-badge&label=and&message=Programmer&color=blue) 
+![Software](https://img.shields.io/static/v1?style=for-the-badge&label=of&message=Software&color=red)
 
  At the moment I work as a Senior Software Developer at Ministerio Publico do Estado de Goiás.
  In the maintenance and support of legacy systems in **Java/Flex** and **Ruby on Rails** and also in the construction 
@@ -28,9 +28,9 @@
 
 <br>    
 
-![Programming](https://img.shields.io/static/v1?style=flat-square&label=The&message=Programming-Languages&color=success)
-![Frameworks](https://img.shields.io/static/v1?style=flat-square&label=&message=Frameworks&color=orange)
-![Tools](https://img.shields.io/static/v1?style=flat-square&label=and&message=Tools&color=yellow)
+![Programming](https://img.shields.io/static/v1?style=for-the-badge&label=The&message=Programming-Languages&color=success)
+![Frameworks](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Frameworks&color=success)
+![Tools](https://img.shields.io/static/v1?style=for-the-badge&label=and&message=Tools&color=success)
 
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/logo-java-coffee-cup.svg" />&nbsp;
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/logotipo-da-primavera.svg" />&nbsp;
@@ -101,7 +101,7 @@
 
 <br>
 
-![Contact](https://img.shields.io/static/v1?style=flat-square&label=&message=Contact&color=success)
-![Me](https://img.shields.io/static/v1?style=flat-square&label=for&message=me&color=success)
+![Contact](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Contact&color=success)
+![Me](https://img.shields.io/static/v1?style=for-the-badge&label=for&message=me&color=success)
 
 [![Linkedin](https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/linkedin.svg)](https://www.linkedin.com/in/mayconribeiro)
