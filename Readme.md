@@ -100,6 +100,7 @@
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/gradle.png" width="48" />&nbsp;
 
 <br>
+
 ![Contact](https://img.shields.io/static/v1?style=flat-square&label=&message=Contact&color=success)
 ![Me](https://img.shields.io/static/v1?style=flat-square&label=for&message=me&color=success)
 
