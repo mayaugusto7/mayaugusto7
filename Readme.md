@@ -6,15 +6,13 @@
 ![Programmer](https://img.shields.io/static/v1?style=for-the-badge&label=and&message=Programmer&color=blue) 
 ![Software](https://img.shields.io/static/v1?style=for-the-badge&label=of&message=Software&color=red)
 
- At the moment I work as a Senior Software Developer at Ministerio Publico do Estado de Goiás.
- In the maintenance and support of legacy systems in **Java/Flex** and **Ruby on Rails** and also in the construction 
- of new systems in **Ruby on Rails**.
+ At the moment I work as a Senior Software Engineer.
    
-   - :palm_tree: I have more than 9 years of experience in software development
+   - :palm_tree: I have more than 10 years of experience in software development
    
    - :man_technologist: I'm work currently with Ruby on Rails
   
-   - :student: I am studying **English, Dart, Flutter, Python, GO, React, Angular, Vue, C#, AWS** and **Microservices** and improving my knowledge in **REST API, Javascript, Java, Spring, Hibernate** and **Ruby on Rails**. 
+   - :student: I am studying **English, Java, Spring Boot, Spring Cloud, Quarkus, Micronaut, Kafka, RabbitMQ, AWS, Google Cloud, Rest, Microservices, Docker, Kubernetes, TDD, TypeScript, JavaScript, Angular, Ruby or Rails, RSpec, React, Rust, Elixir, Python, Django and Go Lang**. 
  
    - :dart: My goal is to be a **Software Architect** 
    
@@ -56,7 +54,6 @@
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/npm.svg" />&nbsp;
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/api.svg" width="48" />&nbsp;
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/postman.svg" width="48" />&nbsp;
-<img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/dart.svg" width="48" />&nbsp;
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/typescript.svg" />&nbsp;
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/bootstrap.svg" />&nbsp;
 <img src="https://raw.githubusercontent.com/mayaugusto7/mayaugusto7/main/assets/sass.svg" />&nbsp;
