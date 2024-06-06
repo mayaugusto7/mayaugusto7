@@ -8,21 +8,21 @@
 
  At the moment I work as a Senior Software Engineer.
    
-   - :palm_tree: I have more than 10 years of experience in software development
+   - :palm_tree: With over a decade of experience in web and mobile software development, I am dedicated to advancing my career towards becoming a Software Specialist. I am committed to staying current with the latest advancements in the IT industry, continually exploring new technologies and evaluating their benefits and drawbacks.
    
-   - :man_technologist: I'm work currently with Ruby on Rails
+   - :man_technologist: I am currently employed as a Java developer.
   
-   - :student: I am studying **English, Java, Spring Boot, Spring Cloud, Quarkus, Micronaut, Kafka, RabbitMQ, AWS, Google Cloud, Rest, Microservices, Docker, Kubernetes, TDD, TypeScript, JavaScript, Angular, Ruby or Rails, RSpec, React, Rust, Elixir, Python, Django and Go Lang**. 
+   - :student: I am currently studying English, as well as a comprehensive range of technologies including Java, Spring Boot, Spring Cloud, Quarkus, Micronaut, Kafka, RabbitMQ, AWS, Google Cloud, REST, microservices, Docker, Kubernetes, TDD, TypeScript, JavaScript, Angular, Ruby on Rails, RSpec, React, Rust, Elixir, Python, Django, and GoLang. 
  
-   - :dart: My goal is to be a **Software Architect** 
+   - :dart: My goal is to be a **Software Specialist** 
    
    - :man_technologist: My experience [![Linkedin](https://img.shields.io/static/v1?style=social&logo=Linkedin&label=&message=Linkedin&color=blue)](https://www.linkedin.com/in/mayconribeiro/?locale=en_US)
   
-   - :man_student: I'm Post Graduate Student in Projeto e Desenvolvimento de Software para Mobile at Fatesg-Senai
+   - :man_student: I am a postgraduate student in Mobile Software Design and Development at Fatesg-Senai.
   
-   - :man_student: I'm Bachelor of Technology - BTech in Análise e Desenvolvimento de Sistemas at PUC-Goias
+   - :man_student: I have a Bachelor of Technology (BTech) degree in Systems Analysis and Development from PUC-Goiás.
   
-   - :books: I love books of Technology and Catholics
+   - :books: In addition to my professional pursuits, I have a deep interest in technology and a love for Catholic literature
 
 <br>    
 
