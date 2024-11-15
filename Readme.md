@@ -6,25 +6,21 @@
 ![Programmer](https://img.shields.io/static/v1?style=for-the-badge&label=and&message=Programmer&color=blue) 
 ![Software](https://img.shields.io/static/v1?style=for-the-badge&label=of&message=Software&color=red)
 
- At the moment I work as a Senior Software Engineer.
+ At the moment I work as a Senior Software Engineer at Ericsson.
    
-   - :palm_tree: With over a decade of experience in web and mobile software development, I am dedicated to advancing my career towards becoming a Software Specialist. I am committed to staying current with the latest advancements in the IT industry, continually exploring new technologies and evaluating their benefits and drawbacks.
-   
-   - :man_technologist: I am currently employed as a Java developer.
-  
-   - :student: I am currently studying English, as well as a comprehensive range of technologies including Java, Spring Boot, Spring Cloud, Quarkus, Micronaut, Kafka, RabbitMQ, AWS, Google Cloud, REST, microservices, Docker, Kubernetes, TDD, TypeScript, JavaScript, Angular, Ruby on Rails, RSpec, React, Rust, Elixir, Python, Django, and GoLang. 
+   - With more than a decade of experience in web and mobile software development, I am driven by a passion to advance my career toward becoming a Software Architect. I am dedicated to staying at the forefront of the IT industry, continuously exploring new technologies and carefully evaluating their advantages and limitations. 
  
-   - :dart: My goal is to be a **Software Specialist** 
+   - My goal is to be a **Software Architect** 
    
-   - :man_technologist: My experience [![Linkedin](https://img.shields.io/static/v1?style=social&logo=Linkedin&label=&message=Linkedin&color=blue)](https://www.linkedin.com/in/mayconribeiro/?locale=en_US)
+   - My experience [![Linkedin](https://img.shields.io/static/v1?style=social&logo=Linkedin&label=&message=Linkedin&color=blue)](https://www.linkedin.com/in/mayconribeiro/?locale=en_US)
   
-   - :man_student: I am a postgraduate student in Mobile Software Design and Development at Fatesg-Senai.
+   - I am a postgraduate student in Mobile Software Design and Development at Fatesg-Senai.
   
-   - :man_student: I have a Bachelor of Technology (BTech) degree in Systems Analysis and Development from PUC-Goiás.
+   - I have a Bachelor of Technology (BTech) degree in Systems Analysis and Development from PUC-Goiás.
   
-   - :books: In addition to my professional pursuits, I have a deep interest in technology and a love for Catholic literature
+   - Beyond my professional endeavors, I have a strong passion for technology and a deep appreciation for Catholic literature.
 
-<br>    
+<br>
 
 ![Programming](https://img.shields.io/static/v1?style=for-the-badge&label=The&message=Programming-Languages&color=success)
 ![Frameworks](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Frameworks&color=success)
